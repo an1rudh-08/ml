@@ -1,1 +1,1 @@
-This is the CNN model built for the machine learning competition on kaggle i.e. "Digit Recognizer". Accuracy acheived by the model is 0.99535 (securing Rank 333).
+This is the first basic ml model built by me. Through various given features built model predicts the pricing of the houses and accuracy is tested by the mean absolute error. I used XGBoost algorithm and also tried some basic data pre processing techniques like dealing with categorical and NULL values through one hot encoding and imputation respectively. 
